@@ -14,10 +14,3 @@ Anda dapat mengakses pratinjau aplikasi kalkulator melalui link berikut: <a href
 - Perkalian
 - Pembagian
 
-## Instalasi
-
-Untuk menjalankan aplikasi ini secara lokal, ikuti langkah-langkah berikut:
-
-1. Clone repositori ini ke komputer Anda dengan perintah berikut:
-   ```bash
-   git clone https://github.com/akhmadnuryasin/kalkulator.git
