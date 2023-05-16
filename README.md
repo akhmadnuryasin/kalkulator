@@ -4,7 +4,7 @@ Ini adalah aplikasi kalkulator sederhana yang dibangun menggunakan [JavaScript](
 
 ## Pratinjau
 
-Anda dapat mengakses pratinjau aplikasi kalkulator melalui link berikut: [Kalkulator Demo](https://akhmadnuryasin.github.io/kalkulator/){:target="_blank"}
+Anda dapat mengakses pratinjau aplikasi kalkulator melalui link berikut: <a href="https://akhmadnuryasin.github.io/kalkulator/" target="_blank">Kalkulator Demo</a>
 
 
 ## Fitur
