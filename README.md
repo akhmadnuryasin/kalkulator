@@ -4,7 +4,7 @@ Ini adalah aplikasi kalkulator sederhana yang dibangun menggunakan [JavaScript](
 
 ## Pratinjau
 
-Anda dapat mengakses pratinjau aplikasi kalkulator melalui link berikut: <a href="https://akhmadnuryasin.github.io/kalkulator/" target="_blank">Kalkulator Demo</a>
+Anda dapat mengakses pratinjau aplikasi kalkulator melalui link berikut: <a href="https://akhmadnuryasin.github.io/kalkulator/" >Kalkulator Demo</a>
 
 
 ## Fitur
@@ -20,4 +20,4 @@ Untuk menjalankan aplikasi ini secara lokal, ikuti langkah-langkah berikut:
 
 1. Clone repositori ini ke komputer Anda dengan perintah berikut:
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/akhmadnuryasin/kalkulator.git
